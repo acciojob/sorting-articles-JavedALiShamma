@@ -1,1 +1,27 @@
 /*  your css code here. If applicable */
+.back-image{
+	width:700px;
+	height:400px;
+	/* background-color:red; */
+	background-image: url("https://img.freepik.com/premium-photo/green-beautiful-natural-environment_981628-78.jpg");	
+}
+.band{
+	display:flex;
+	flex-direction:column;
+	width:300px;
+	height:100%;
+	/* border: 1px solid red; */
+	background-color:white;
+	/* width:after-white-space; */
+	text-align:center;
+}
+.band li{
+	width:100%;
+	height:100%;
+	border:2px solid black;
+	background-color:white;
+	align-items:space-between;
+}
+*{
+
+}
