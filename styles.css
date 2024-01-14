@@ -1,9 +1,12 @@
 /*  your css code here. If applicable */
 .back-image{
 	width:700px;
-	height:400px;
+	height:700px;
 	/* background-color:red; */
-	background-image: url("https://img.freepik.com/premium-photo/green-beautiful-natural-environment_981628-78.jpg");	
+	background-image: url("https://i.redd.it/beautiful-nature-generated-by-ai-v0-7lq77sk88zob1.jpg?width=2048&format=pjpg&auto=webp&s=15d795ea3667d83c7199f3d6e2e434ce05aac3f1");	
+	display:flex;
+	align-items:center;
+	justify-content:center;	
 }
 .band{
 	display:flex;
@@ -11,7 +14,7 @@
 	width:300px;
 	height:100%;
 	/* border: 1px solid red; */
-	background-color:white;
+	/* border:2px solid red; */
 	/* width:after-white-space; */
 	text-align:center;
 }
@@ -22,6 +25,7 @@
 	background-color:white;
 	align-items:space-between;
 }
+
 *{
 
 }
